@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: "Abril Fatface", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

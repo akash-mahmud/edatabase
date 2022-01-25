@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "edatabase",
+    "database": "edatabase",
+    "host": "edatabase.cjtcjqqafsi0.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "edatabase",
+    "database": "edatabase",
+    "host": "edatabase.cjtcjqqafsi0.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "edatabase",
+    "database": "edatabase",
+    "host": "edatabase.cjtcjqqafsi0.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
